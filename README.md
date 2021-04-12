@@ -1,11 +1,11 @@
-# <OPSWAT - MetaDefender Cloud>
+# OPSWAT - MetaDefender Cloud
 
 ## Installation Guide:
 * Clone repository using Git: 
    ```
     git clone https://github.com/mhe98/opswat-metadefender-cloud.git
    ```
-* Clone repository from Visual Studio 2017
+* Clone repository from Visual Studio 2017:
    
    `View > Team Explorer > Local Git Repositories > Click "Clone" tab > Repository location: "https://github.com/mhe98/opswat-metadefender-cloud.git" > Click "Clone"`
 
